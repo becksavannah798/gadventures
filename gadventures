@@ -1,0 +1,2118 @@
+
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"
+      class="no-js emea"><head><script type="text/javascript">
+      window.DY = window.DY || {};
+      
+      
+      DY.recommendationContext = {"type": "HOMEPAGE", "lng": "en"};
+      
+      DY.noCookies = true;
+      
+    </script><link rel="preconnect" href="//cdn.dynamicyield.com"><link rel="preconnect" href="//st.dynamicyield.com"><link rel="preconnect" href="//rcom.dynamicyield.com"><link rel="dns-prefetch" href="//cdn.dynamicyield.com"><link rel="dns-prefetch" href="//st.dynamicyield.com"><link rel="dns-prefetch" href="//rcom.dynamicyield.com"><script type="text/javascript" src="//media.gadventures.com/dy/api/8771071/api_dynamic.js"></script><script type="text/javascript" src="//media.gadventures.com/dy/api/8771071/api_static.js"></script><title>Adventure Travel &amp; Tours - Book Your Trip - G Adventures</title><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="chrome=1"/><meta name="description" content="The official site of the world's greatest adventure travel company. We offer a wide selection of small-group tours, safaris and expeditions. Start exploring." /><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="0"><meta name="viewport" content="width=device-width"><meta name="y_key" content="39540c89b6ec2379"><meta name="bitly-verification" content="9b3a37412959"><meta name="theme-color" content="#47268d"><meta property="fb:app_id" content="153073984718796"><meta property="twitter:account_id" content="16703744"><meta name="msvalidate.01" content="048D21E451919C383EC3344992D5A6BA"><link rel="shortcut icon" href="https://media.gadventures.com/media-server/static/images/favicon.ico"><link rel="alternate" href="https://www.gadventures.com/" hreflang="x-default" /><link rel="alternate" href="https://www.gadventures.com/" hreflang="en-au"/><link rel="alternate" href="https://www.gadventures.com/" hreflang="en-gb"/><link rel="alternate" href="https://www.gadventures.com/" hreflang="en-us"/><link rel="alternate" href="https://www.gadventures.de/" hreflang="de-de"/><link rel="apple-touch-icon" href="https://media.gadventures.com/media-server/static/gadventures/images/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="76x76" href="https://media.gadventures.com/media-server/static/gadventures/images/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="120x120" href="https://media.gadventures.com/media-server/static/gadventures/images/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="180x180" href="https://media.gadventures.com/media-server/static/gadventures/images/apple-touch-icon-180x180.png"><link rel="icon" sizes="180x180" href="https://media.gadventures.com/media-server/static/gadventures/images/apple-touch-icon-180x180.png"><meta property="og:image" content="https://media.gadventures.com/media-server/dynamic/admin/content_pages/_0000_generic-g-adventures.jpeg"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="600"/><link rel="stylesheet" href="https://media.gadventures.com/media-server/static/_CACHE/css/output.b9e6c4a29748.css" type="text/css"><link rel="stylesheet" href="https://media.gadventures.com/media-server/static/_CACHE/css/output.bb8c6700547e.css" type="text/css"><link rel="stylesheet" href="https://media.gadventures.com/media-server/static/_CACHE/css/output.824931121045.css" type="text/css"><style>
+    /*------ for admin  -----*/ 
+
+#homepage-refactored-hero-group .content-admin { position: inherit;}  
+.content-main .text {margin-bottom: 0;}. 
+      
+            
+.leadercontent, .simpletext {
+    margin-top:0!important;
+}
+
+
+.leadercontent{
+    margin-top:0!important;
+}
+
+
+
+
+/*------ hide why travel with G in footer -----*/
+#footer {
+margin-top: 0;
+}
+
+#footer .footer-usp {
+    display: none;
+}
+
+
+
+/*---h3 title size, buttons, body title and text margin ---*/
+
+
+.content-container p { 
+     margin:0;
+     padding-top:24px;
+    /*font-family: DM Sans;*/
+ }
+
+
+.button.main a {
+	color: #fff;
+}
+
+.button.ghost a {
+	color: #513394;
+        padding: 12px 0;
+}
+
+a {
+	text-decoration: none
+}
+
+a:focus,
+a:hover {
+	color: #c7c7c7;
+	text-decoration: none
+}
+
+
+
+.button { 	
+        margin-top: 24px;
+        font-weight: 700;
+
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.5px;
+}
+
+
+.main {
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+
+	padding: 12px 24px;
+        border-radius: 1rem;
+	
+	
+	color:#fff;
+        background-color: #513394;
+       position: relative;
+}
+
+
+.main:hover {
+	-webkit-transition: .2s ease-out;
+	-o-transition: .2s ease-out;
+	transition: .2s ease-out;
+
+        box-shadow: rgb(36 34 57 / 22%) 0px 0.125rem 1.5rem;
+}
+
+
+.main:active, .content-top .hypersearchform .btn:ative {
+        background: #210a53;
+}
+
+
+
+.main.button:focus::before {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    box-sizing: content-box;
+    border: 4px solid #dad9ff; 
+    border-radius: 1rem;
+    inset: -0.175rem;
+}
+
+
+
+.content-top .hypersearchform .btn:focus {
+    color: #fff;
+}
+
+
+
+
+.ghost {    
+	padding: .5rem 0;
+}
+
+
+
+
+.ghost a:hover { 
+        border-bottom: 2px solid #af9feb;
+}
+
+.ghost:active { 
+       box-shadow:none !important;
+}
+
+.ghost a:focus { 
+       background: rgba(235, 234, 255, 0.1);
+       border: 2px dashed #af9feb;
+       border-radius: 4px;}
+
+
+
+
+
+
+
+
+
+/*------ hero section -----*/
+
+.content-top section {
+    position: relative;
+    margin-bottom: 0;
+    overflow: hidden
+
+}
+
+
+.bg-image-and-search {
+    display: -ms-grid;
+    display: grid;
+    -align-items: center;
+}
+
+
+
+
+.brand h1 {
+    /*font-family: DM Sans;*/
+    text-transform: none;
+    font-size: 48px;
+    color: #fff;
+    line-height: 1;
+}
+
+form.hypersearchform.search-container {
+    margin-left: 0;
+    padding: 0;
+    float: none;
+    margin-top: 0;
+    background: 0 0;
+    margin-bottom: 0;
+}
+
+
+.hero-image-slide {
+    margin-top: 0!important;
+    z-index: -1;
+}
+
+.hero-image-slide .image img {
+    width: 100%;
+    min-height: 505px;
+    max-height: 505px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    z-index: -1;
+}
+
+
+
+.content-top .hypersearchform .btn:hover {
+    background: #513394;
+
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+    box-shadow: rgb(36 34 57 / 22%) 0px 0.125rem 1.5rem;
+}
+
+/*------ seach form and text  group ----*/
+
+
+.hero-search {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+     -moz-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+       -o-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+
+
+
+ .hero-search .brand h1 {
+    text-align:center;
+}
+
+
+.search-items {
+     grid-area: 2 / 3 / 3 / 11; 
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+}
+
+.advanced-search {
+    display: none!important;
+}
+
+.hypersearchform.search-container fieldset {
+    width: 100%;
+    background: #fff;
+    border-radius: 18px;
+    padding: 12px 10px 12px 15px;
+    margin: 20px auto 0;
+    display:flex;
+    box-sizing: border-box;
+    
+}
+
+
+.hypersearchform.search-container legend {
+    display: none;
+}
+
+#homepage-refactored-h1-header-trip-finder .hypersearchform.search-container input {
+    border: 0;
+    box-shadow: none;
+    background-color: unset;
+    margin: 0;
+    font-size: 16px;
+    font-style:normal;
+    width: 100%;
+    padding: 10px 15px;
+}
+
+
+.content-top .hypersearchform .btn {
+    border-radius:60px;
+    height: 50px;
+    font-size: 16px;
+    letter-spacing: .5px;
+    font-weight: 500;
+    padding: 16px 34px;
+    background: #513394;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+}
+
+form.hypersearchform fieldset button:before {
+    content: '';
+    background-image: url(https://media.gadventures.com/media-server/dynamic/admin/flatpages/Search-icon.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 12px;
+    vertical-align: text-top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+/*-------Where to travel covid section-----*/
+
+.content-container {
+    margin: 90px auto 0;
+    box-sizing: border-box;
+}
+
+.parent {    
+    display: grid;
+    grid-template-columns: calc(50% - -10px) calc(50% - 30px);
+
+    grid-gap: 20px;
+    padding: 0;
+    border-radius: 16px;
+    background: #F6F6FA;
+}
+
+.wheretohpdes {
+     padding: 60px 0 90px 60px;
+}
+
+.wheretohpdes p {
+    font-size: 16px;
+}
+
+
+
+
+.wheretohpimg {
+   background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/wheretohpimg1.jpg);    
+    border-radius: 0 16px 16px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+
+
+
+
+@media (max-width: 1080px) {
+.content-container ul.tabs {
+    white-space: nowrap;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+}
+
+@media (max-width: 768px) {
+.content-container {
+    margin: 60px auto 0;
+    padding: 0 24px;
+}
+
+.content-container ul.tabs {
+    margin-left: -32px;
+    margin-right: -24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+ .tab-section.tour-recos {
+    margin-right: -24px;
+}
+
+}
+
+@media (max-width: 640px) {
+
+.content-container h3 {
+    font-size: 24px;
+    padding: 0;
+}
+
+
+.promo-intro, .why-g-intro {
+    width: 100%!important;
+}
+
+}
+
+
+
+
+
+/*-------Trip recos seciton-----*/
+
+ p.eye-icon {
+    padding:0!important;     
+   white-space: nowrap;
+}
+
+.per_person {
+   white-space: nowrap;
+}
+
+p.trip-title { 
+    padding-top:0!important;
+}
+
+
+
+
+.tour-sale {
+	position: relative;
+
+}
+
+.tour-sale .recos-container {    text-decoration: none;
+    display: block;
+    position: relative;
+    list-style-type: none;
+    margin-left: 0px !important;
+    list-style: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    margin-block-end: 1em;}
+
+.tour-sale .tile-image-container {    border-radius: 15px;
+    height: 360px;}
+
+.tour-sale .dy-text {    position: absolute;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+    display: inherit;}
+
+
+
+
+.content-container .promo-intro {
+    width: 65%;
+}
+
+.promo-intro p {
+font-size: 16px;
+line-height: 1.5;
+margin-bottom:48px;
+}
+
+
+/*------BWC and TWC------*/
+
+.pomtcontainer {
+    padding: 40px 35px 25px 35px; 
+    align-self: normal;    
+    border-radius: 16px;
+    text-align: left;
+
+    display: grid;
+    grid-template-columns: calc(80% - 26px) calc(30% - 45px);
+    grid-gap: 20px;
+}
+
+.pomtcontainer.wtg {
+    background-color: #E4F6F1; }
+
+.pomtcontainer.bwc {
+    background-color: #f6f6fa; }
+
+
+.pomtcontainer.twc {
+    background-color: #fdf9e5; }
+
+
+.pomtgrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0;
+
+    grid-row-gap: 0;
+    -webkit-box-align: center; 
+    -ms-flex-align: center; 
+    align-items: center;
+    grid-gap: 20px;
+    margin-bottom: 0; 
+}
+
+.pomttopicon {
+    background-color: #fff;
+    height: 70px;
+    box-shadow: 0 0 4px rgba(81, 51, 148, 0.2);
+
+    border-radius: 100px;
+    width: 70px;
+   }
+
+.pomttopicon img {
+margin: 11px 12px 11px 12px; width: 50px;
+ }
+
+.pomtgrid p { font-size: 16px; line-height: 1.5; margin: 0px 0 24px 0 !important;}
+.pomtgrid p a {text-decoration:underline; color:#ffffff !important}
+
+
+ @media only screen and (min-width: 961px) and (max-width: 1149px)  {
+   
+.pomtcontainer {
+    padding: 40px 24px 25px 24px;
+}
+
+.pomttopicon {
+    height: 56px;
+    width: 56px;
+  }
+
+.pomttopicon img {
+ width: 32px;
+ }
+
+.promcontent h3 {
+    font-size: 24px;
+}
+
+
+.pomtgrid p {
+    margin: 0px -50% 24px 0 !important;
+}
+
+}
+
+
+
+
+/*----retravel section----*/
+
+.retravel-section-bg  {
+    background: -webkit-linear-gradient(90deg, #fff 45%, #210a53 12%);
+    margin-bottom: 0px;
+    margin-top: 90px;
+}
+
+
+.retravel-section-bg .promo-intro, .retravel-section-bg .promo-intro h3 {
+     color:#fff;
+}
+
+.retravel-section-bg .content-container, .why-g-block .content-container  {
+    padding-top: 90px;
+}
+
+
+/*---why G block---*/
+
+.why-g-block {
+background-color:#f6f6fa;
+margin-bottom:0;
+margin-top:90px;
+}
+
+
+
+.content-container .why-g-intro {
+    width: 60%;
+}
+
+.content-container .why-g-intro p{
+    font-size:16px;
+}
+
+.reasons-items-block {    
+    display: grid;
+    -ms-grid-columns: 25% 15px 1fr 15px 1fr 15px 1fr;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 24px;
+    margin-top:48px;
+    margin-bottom: 90px;
+}
+
+.reason-item {
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+
+    align-items: flex-start;
+    padding: 24px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+
+.reason-item p{     
+   padding-top: 0px;
+}
+
+
+.reason-item .card-header  {
+    display: flex;
+    flex-direction: row;
+
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+
+    grid-gap: 12px;
+    margin-bottom:0;
+}
+
+
+.reason-item .card-header img {
+    max-width: 60px;
+}
+
+
+.reason-item .card-header h6 { 
+    font-size: 18px;
+    line-height: 1.45;
+    color: #242239;
+    margin:0;
+}
+
+
+
+
+
+
+@media (max-width:1199px) {
+
+ ul.tabs li {margin-right:15px;}
+
+.pomtcontainer {width:unset;}
+
+.pomtgrid {-webkit-box-align: start;-ms-flex-align: start;align-items: start;}
+
+.pomtgrid h2 {font-size: 2.8em;text-align:center !important;}
+}
+
+
+@media (max-width:1080px) {
+
+.content-container ul.tabs {
+    overflow-x: auto;
+    white-space: nowrap;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.pomtcontainer {padding: 20px 20px 14px 20px;
+    grid-template-columns: calc(80% - 30px) calc(30% - 45px);
+    grid-gap: 15px;}
+}
+
+
+
+@media (max-width:979px) {
+
+.pomtgrid h2 {font-size: 2.4em; padding: 0; text-align:center !important;}
+
+ ul.tabs li {
+    margin-right:15px;}
+
+.parent {    
+    grid-template-columns: 54% auto;
+    grid-gap: 10px;}
+
+.hero-container {
+       padding: 0 0 0 24px
+}
+
+
+
+
+}
+
+@media (max-width:960px) {
+
+.pomtgrid {-ms-grid-columns: auto;grid-template-columns: auto; grid-gap: 20px;}
+.pomtcontainer { padding: 32px; }
+
+}
+
+
+
+
+@media (max-width:768px) {
+
+.content-top .hypersearchform {
+  display: block; 
+}
+
+.content-container .promo-intro {
+    width: 80%;
+}
+
+
+#pomtpromo-terms h3 {padding:0}
+.pomtblue, .pomtpurple { padding: 20px;}
+.pomtgrid h2 {text-align:center !important;}
+
+
+.parent {grid-template-columns: auto; grid-gap: 10px;}
+
+.wheretohpdes {padding: 60px 30px 0 30px;}
+
+.wheretohpimg {height: 220px; border-radius: 0 0 16px 16px;}
+
+
+.content-container {
+    margin: 60px auto 0;
+    padding: 0 24px;
+}
+
+
+.content-container h3 {
+    padding: 0;
+}
+	
+
+.content-container ul.tabs {
+    margin-left: -24px;
+    margin-right: -24px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+}
+
+ #dy_Summer_sale_Central_America_-_uk, .tab-section.tour-recos{
+    margin-right: -24px;
+}
+
+
+.reasons-items-block {
+    grid-template-columns: repeat(2,1fr); }
+
+}
+
+
+
+
+@media (max-width:640px) {
+
+.hero {
+    padding: 0 !important
+}
+
+.hero-container {
+    padding: 0 !important;
+    margin-top: 0;
+}
+
+
+.hero-search {
+    margin: 0 24px;
+top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform: none;
+}
+
+.brand h1 {
+    font-size: 32px;
+    line-height: 40px;
+} 
+
+.search-items {
+    grid-area: 2 / 1 / 2 / 13;
+    margin-bottom: 60px;
+ }
+
+form.hypersearchform.search-container {
+     display:block;
+}
+
+.content-top .hypersearchform .btn {
+    height: 44px;
+    font-size: 0px;
+    padding: 14px;
+    display: block;
+}
+
+.hypersearchform.search-container fieldset {
+    padding: 7px 10px 7px 20px;}
+
+#homepage-refactored-h1-header-trip-finder .hypersearchform.search-container input {
+    padding: 7px 0px;
+}
+
+form.hypersearchform fieldset button:before {
+    width: 16px;
+    height: 16px;
+    margin-right: 0px;
+}
+
+.content-container h3 { font-size: 24px;}
+
+.wheretohpdes {
+     padding: 60px 30px 30px 30px;
+}
+
+
+.pomtgrid {
+    grid-gap: 20px;
+}
+
+
+.pomtcontainer {
+    padding: 40px 24px;
+}
+
+
+
+.promo-intro p {
+    font-size: 16px;
+}
+
+
+.pomttopicon {
+    height: 60px;
+    width: 60px;
+}
+
+.pomttopicon img{
+    width: 36px!important;
+    margin: 12px!important;
+}
+
+
+.retravel-section-bg {
+    background: -webkit-linear-gradient(90deg, #fff 40%, #210a53 12%);
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+
+.promo-intro, .why-g-intro {
+    width: 100%!important;
+}
+
+
+.why-g-block {
+        margin: 60px auto 0;
+}
+
+.retravel-section-bg .promo-intro h3, .why-g-block .why-g-intro h3 {
+    padding-top: 0px;
+}
+
+.reasons-items-block {
+    grid-template-columns: repeat(1,1fr);
+    grid-auto-rows: 1fr;
+}
+
+
+
+}
+    div#breadcrumbs { display: none; }
+    
+    </style><script>(function(){var h=document.getElementsByTagName('html')[0];h.className=h.className.replace('no-js','js');})();;(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document);var MEDIA_URL='https://media.gadventures.com/media-server/';var STATIC_URL='https://media.gadventures.com/media-server/static/';;</script></head>
+<body class="home  None localization-russia " id="home-home">
+
+<!--[if lte IE 8]>
+<div class="browsehappy">
+  <p>Hrmm. Looks like you're using an older browser, which means some site 
+  features may not work they way they should. For the full gadventures.com experience, 
+  we recommend <a href="http://browsehappy.com/?locale=en">upgrading to the most recent version of your browser</a>. 
+  It's worth it! Honest!</p>
+</div>
+<![endif]-->
+
+
+    
+
+
+
+
+    <script>dataLayer = [{"ipAddress": "94.25.173.184", "ipCountry": "Russia", "transactionCurrency": "USD", "pageTitle": "Adventures Travel & Tours", "pageCategory": "Homepage"}];</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://analytics.gadventures.com/ns.html?id=GTM-N6GGD26"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>window.dataLayer = window.dataLayer || [];</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://analytics.gadventures.com/gtm.js?id='+i+dl
+;
+f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N6GGD26');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+    <div id="goodtogo-modal" class="fluid-row"> </div>
+
+
+<div id="fb-root"></div>
+
+<div class="snap-drawers">
+    <div class="snap-drawer snap-drawer-right"></div>
+</div>
+
+<div id='container'>
+
+    
+        <header id="header">
+            
+
+<div id="mobile-nav"
+  data-lang="en"
+  data-auth-login="/accounts/login/"
+  data-phone-number="+49 211 96294006"
+  data-custom-trip="False"></div>
+
+            
+
+<div id='topbar-nav'><div id='account-nav' style='display:none;'><a href="/accounts/login/?next=/">Login</a><a href="/accounts/register/">Register</a></div><a href="/contact-us/" data-bypass>Contact Us</a></div><nav class='site-nav' id="site-nav"><div id='masthead'><a href='/' class='home'>G Adventures</a><div class='phone-hours'><div class='hours'>
+          Call us, we're at your service
+        </div><!-- Changing the link class for custom trips intends to suppress the PPC-based phone number update --><a class='telephone' href='tel:+49 211 96294006'>
+          +49 211 96294006
+        </a></div></div><div role="navigation" class='pinned-nav'><div class='primary'><ul class='nav'><li class="nav-link"></li><li class="nav-link"><a title="Top of page anchor" href='/' class='g-flag'></a></li><li class="nav-link "><a href="/travel-styles/">Travel Styles</a></li><li class="nav-link "><a href="/destinations/">Destinations</a></li><li class="nav-link "><a href="/travel-deals/">Travel Deals</a></li><li id="bookings-cart"></li></ul><div class="bar"><form role="search" method='get' action="/search/" class="hypersearchform" autocomplete="off"><input title="Site-wide search" type="text" maxlength="128" name="q" class="hypersearch"
+           ceid="Navigation Search"
+           placeholder="Where's your next adventure?"
+           data-source="/search/autocomplete/"
+           tabindex="1"
+           autocomplete="off"/><input type="hidden" name="ref" value="navsearch"/><button title="Site search button" type="submit" class="btn "><span class="icon-search icon-white"></span></button></form></div></div><div role="navigation" class="secondary-nav"></div></div></nav>
+
+        </header>
+    
+    
+    
+
+    <div id='c-inner'>
+
+        
+
+        
+
+        <div id="breadcrumbs">
+  <a href='/'>Home</a>
+  
+      
+        <span>Homepage</span>
+      
+  
+</div>
+
+        
+          
+
+        
+
+        
+<div id="content">
+
+    
+<div class='page-position section-navigation clearfix' data-position="section-navigation">
+        
+</div>
+
+
+    
+    <div id='content-head'>
+        
+            
+            
+<div class='page-position content-top clearfix' data-position="content-top">
+
+  
+<section class='groupedcontent None' id='homepage-refactored-hero-group'><div class='bg-image-and-search'><div class='groupedcontent None' id='homepage-refactoring-search-carousel'><div class=''><div id='carousel15094' class='carousel slide' data-interval='10000'><div class='carousel-inner'><div class='active item'><div class='leadercontent hero-image-slide clearfix' id='leadercontent-15579'><div class='image'><img src='https://media.gadventures.com/media-server/cache/34/e6/34e60c385a05cf987fafee050e64d7cb.jpg'
+         class='responsive'
+         
+            alt=""
+         
+         
+           
+           data-src-small='https://media.gadventures.com/media-server/cache/66/a5/66a570915337e0256ae0832f41227936.jpg'
+           
+         
+         
+            
+            data-src-medium='https://media.gadventures.com/media-server/cache/47/b2/47b22d4bebc649a8149e0ac38e53c4c8.jpg'
+           
+         
+         data-src-xlarge='https://media.gadventures.com/media-server/cache/cd/18/cd1896ee33418af6869ad4ff432f98e9.jpg'
+         data-src-large='https://media.gadventures.com/media-server/cache/54/88/5488a6d8be14ebf027d7712d1c26f805.jpg'/></div></div></div><div class='item'><div class='leadercontent hero-image-slide clearfix' id='leadercontent-15574'><div class='image'><img src='https://media.gadventures.com/media-server/cache/d6/3e/d63e7c613214a167e03bba8c50697738.jpg'
+         class='responsive'
+         
+            alt=""
+         
+         
+           
+           data-src-small='https://media.gadventures.com/media-server/cache/aa/a3/aaa3bc11e18c82e484f3cdb027a1248d.jpg'
+           
+         
+         
+            
+            data-src-medium='https://media.gadventures.com/media-server/cache/fd/86/fd86ca60feae9763e146fa7047add275.jpg'
+           
+         
+         data-src-xlarge='https://media.gadventures.com/media-server/cache/eb/3a/eb3a8fe196270cc23e0a11148f794694.jpg'
+         data-src-large='https://media.gadventures.com/media-server/cache/74/ce/74ce2354536d049bce7227db59d8bc95.jpg'/></div></div></div><div class='item'><div class='leadercontent hero-image-slide clearfix' id='leadercontent-15578'><div class='image'><img src='https://media.gadventures.com/media-server/cache/1c/48/1c487f034862a8bf8f2e1df2298ac7d0.jpg'
+         class='responsive'
+         
+            alt=""
+         
+         
+           
+           data-src-small='https://media.gadventures.com/media-server/cache/1c/e1/1ce1a9b6c7827c975638bebc26ea5c6f.jpg'
+           
+         
+         
+            
+            data-src-medium='https://media.gadventures.com/media-server/cache/e5/11/e5115a16474c1b8e964220f0631414f9.jpg'
+           
+         
+         data-src-xlarge='https://media.gadventures.com/media-server/cache/2e/d3/2ed3f5b05a9890dd550e7c725d326cdb.jpg'
+         data-src-large='https://media.gadventures.com/media-server/cache/ed/fc/edfc00e8d97cf7d74dec8ba624c195ca.jpg'/></div></div></div><div class='item'><div class='leadercontent hero-image-slide clearfix' id='leadercontent-15577'><div class='image'><img src='https://media.gadventures.com/media-server/cache/31/c0/31c00dfae44c5d06553518ccf0ca85fa.jpg'
+         class='responsive'
+         
+            alt=""
+         
+         
+           
+           data-src-small='https://media.gadventures.com/media-server/cache/14/83/14832562b9895c9550445ac25d84c4c4.jpg'
+           
+         
+         
+            
+            data-src-medium='https://media.gadventures.com/media-server/cache/16/f7/16f78bdced5819cfeed980615f5fb448.jpg'
+           
+         
+         data-src-xlarge='https://media.gadventures.com/media-server/cache/ad/0c/ad0c203efb83b343313c63631c10d03b.jpg'
+         data-src-large='https://media.gadventures.com/media-server/cache/aa/14/aa14fb7a871d95d6302a43c7eb3425e8.jpg'/></div></div></div></div></div></div></div><div class='groupedcontent container hero-search' id='homepage-refactored-h1-header-trip-finder'><div class='search-items'><div class='leadercontent brand clearfix' id='leadercontent-15099'><div class='text'><h1>Bring on the world with small&nbsp;group travel.</h1></div></div><form method='get' action="/search/" class="hypersearchform search-container"><fieldset><legend><h3></h3></legend><input type="text" maxlength="128" name="q" class="hypersearch"
+           ceid="Navigation Search"
+           placeholder="Where's your next adventure?"
+           data-source="/search/autocomplete/"
+           autocomplete="off"/><input type="hidden" name="ref" value="navsearch"/><button type='submit' class='btn'>Search</button></fieldset><a href="/search/?ref=advanced-search" class="advanced-search"><span class="icon-search icon-white"></span> View all tours</a></form></div></div></div></section>
+
+        
+</div>
+
+        
+    </div>
+    
+
+    
+<div class='page-position subsection-navigation clearfix' data-position="subsection-navigation">
+        
+</div>
+
+
+    
+        
+<div class='page-position content-main clearfix' data-position="content-main">
+
+  <div class='leadercontent expeditionlast clearfix' id='leadercontent-15595'><div class='text'><div class="container"><div class="expedition_content"><div class="left_content"><div class="head_line"><h3> Icy hot deals on last minute Expeditions </h3><p>  Last minute doesn’t make Antarctica any less epic. Snap up iceberg-sized savings on our 2023/24 Expedition cruises to Earth’s frozen frontier. </p></div><a class="button_container" href="/search/?refinementList%5Bpromotions%5D%5B0%5D=On%20Sale&destinations=Antarctica"><div class="main button">View all Antarctica tours </div></a></div><div class="right_tour_block"><div id="dy_2023_three_Antarctica_tours_sale"></div><!-- div class="trip-card"><div class="trip-text-container"><div class="duration-salebadge"><div class="durations_start_end_city"> 11 DAY TOUR </div><div class='sale-badge'> On Sale </div></div><div class="tile-name"><p class="trip-title">Antarctica Classic </p></div><div class="departure-date"><p> Next Departure Dates </p><div class="date-range"><span> Dec 12, <br>2022 </span><span> Jan 02, <br> 2023</span><span> Jan 30, <br>2023</span><span> Mar 04, <br>2023 </span><span> Mar 13, <br>2023 </span></div></div><div class="cta_price_row"><a href="https://www.gadventures.com/trips/antarctica-classic/XVCASX/"  class="destftbtn" target="_blank"><div class="cta-link"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0)"><path d="M0.666504 8.00002C0.666504 8.00002 3.33317 2.66669 7.99984 2.66669C12.6665 2.66669 15.3332 8.00002 15.3332 8.00002C15.3332 8.00002 12.6665 13.3334 7.99984 13.3334C3.33317 13.3334 0.666504 8.00002 0.666504 8.00002Z" stroke="#513394" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z" stroke="#513394" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg><p class="eye-icon"> View itinerary </p></div></a><div class="per_person"><span> from &nbsp; </span><span class="currency-symbol">&nbsp; </span><span class="price_number canada"> 6369 </span><span class="price_number usa"> 5319 </span><span class="price_number uk"> 3779 </span><span class="price_number australia"> 6439 </span><span class="price_number new-zealand"> 6929 </span><span class="price_number euro"> 4549 </span><span class="price_number outside"> 5319 </span><span class="currency canada" >CAD</span><span class="currency usa" >USD</span><span class="currency uk" >GBP</span><span class="currency australia" >AUD</span><span class="currency new-zealand" >NZD</span><span class="currency euro" >EUR</span><span class="currency outside" >USD</span></div></div></div></div---></div></div></div><style>
+
+
+
+
+
+.localization-canada .canada,
+.localization-united-states .usa,
+.localization-united-kingdom .uk,
+.localization-australia .australia,
+.localization-new-zealand .new-zealand,
+.localization-ireland .euro,
+.localization-germany .euro,
+.localization-deutschland .euro
+ {display:inline-block;}
+
+
+.localization-canada .usa,
+.localization-canada .uk,
+.localization-canada .australia,
+.localization-canada .new-zealand,
+.localization-canada .euro,
+.localization-united-states .canada,
+.localization-united-states .uk,
+.localization-united-states .australia,
+.localization-united-states .new-zealand,
+.localization-united-states .euro,
+.localization-united-kingdom .usa,
+.localization-united-kingdom .canada,
+.localization-united-kingdom .australia,
+.localization-united-kingdom .new-zealand,
+.localization-united-kingdom .euro,
+.localization-australia .usa,
+.localization-australia .uk,
+.localization-australia .canada,
+.localization-australia .new-zealand,
+.localization-australia .euro,
+.localization-new-zealand .usa,
+.localization-new-zealand .uk,
+.localization-new-zealand .canada,
+.localization-new-zealand .australia,
+.localization-new-zealand .euro,
+.localization-ireland .usa,
+.localization-ireland .uk,
+.localization-ireland .canada,
+.localization-ireland .australia,
+.localization-ireland .new-zealand,
+.localization-germany .usa,
+.localization-germany .uk,
+.localization-germany .canada,
+.localization-germany .australia,
+.localization-germany .new-zealand,
+.localization-canada .outside,
+.localization-united-states .outside,
+.localization-united-kingdom .outside,
+.localization-australia .outside,
+.localization-new-zealand .outside,
+.localization-ireland .outside,
+.localization-germany .outside,
+.localization-deutschland .outside
+ {display:none;}
+
+
+
+.canada, .usa, .uk, .australia, .new-zealand, .euro {display:none}
+.outside {display:inline-block}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.expeditionlast {
+    background-image: url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/expedition_bg.jpg);
+    background-position: 25% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    padding: 72px 0;
+}
+ 
+   
+.expedition_content{    
+    display: grid;
+    grid-template-columns: 33.33% auto;
+    grid-gap: 24px;}
+
+
+.head_line h3 {
+    font-size:32px;
+}
+
+
+.expedition_content .trip-card{
+    background-image: url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/antarctica_bg.jpeg);
+    flex-grow: 1;
+    border-radius: 16px;
+    text-decoration: none;
+    display: block;
+    height: 420px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+
+.expedition_content .trip-text-container {
+    padding: 12px 16px;
+    margin: 8px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 12px;
+    background: #fff;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+    max-width: 368px;
+}
+
+.expedition_content p.trip-title{    
+    font-size: 16px;
+    line-height: 1.3;
+    color: rgba(65, 64, 66, 1);
+    margin: 8px 0;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Arial,sans-serif;
+}
+
+
+.expedition_content .date-range {
+    display:flex;
+    margin-bottom:16px;
+}
+.expedition_content .sale-badge {
+background: #FCEEEE;
+border-radius: 8px;
+color: #E55353;
+padding: 4px 8px;
+font-weight: 700;
+font-size: 12px;
+}
+
+.expedition_content .duration-salebadge{   display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.expedition_content .departure-date p {
+    margin-bottom:4px; 
+}
+
+.expedition_content .date-range span {
+    background: #F6F6FA;
+    border: 1px solid #EBEAFF;
+    border-radius: 12px;
+    padding: 4px 8px;
+    margin-right:8px;
+ 
+    color: #242239;
+    line-height:1.3;
+}
+
+.expedition_content .date-range span:last-child {
+   margin-right:0;
+}
+
+
+.expedition_content .main {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 12px 24px;
+    border-radius: 1rem;
+    color: #fff;
+    background-color: #513394;
+    position: relative;
+}
+
+.expedition_content .main:hover {
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+    box-shadow: rgb(36 34 57 / 22%) 0px 0.125rem 1.5rem;
+}
+
+.expedition_content .button {
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.expedition_content .button.main a {
+    color: #fff;
+}
+
+.expedition_content a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+@media (max-width:820px) {
+
+.expedition_content {
+    grid-template-columns: calc(50% - 24px) auto;
+}
+
+.expedition_content .expeditionlast .container {
+padding: 0 40px;
+
+}
+
+.expedition_content .head_line h3 {
+    padding:0;
+}
+
+.date-range span {
+    padding: 4px;
+    font-size:12px;
+}
+
+}
+
+
+@media (max-width:680px) {
+
+
+
+.expeditionlast {
+    background-size: 300%;
+    padding: 72px 0 208px;
+    background-color: rgba(208, 243, 250, 0.25);
+}
+
+
+ .expedition_content  { 
+    display: flex;
+    flex-direction: column; }
+}
+
+.expeditionlast .container {
+    padding: 0 24px;
+}
+
+
+
+
+</style><script type="text/javascript">DYO.smartObject("2023 three Antarctica tours sale", {target: "dy_2023_three_Antarctica_tours_sale", inline: true});</script></div></div>
+
+
+  <div class='leadercontent container clearfix' id='leadercontent-15592'><div class='text'><div class="canary-block"><div class="left-content"><h3>Soar to the Canary Islands</h3><p>With balmy year-round temps, it’s easy to see why people flock to these sunny isles off the coast of northwestern Africa. But we want you to see a whole new side to this stunning Spanish archipelago! Did you know it’s got an active volcano, six Biosphere Reserves, and some of the world’s darkest skies? Feel positively starry-eyed as you hike or sail your way around this natural wonderland.</p><div class="button-group"><a href="search/?destinations=Canary%20Islands"><button class="main button">  Browse Canary Islands tours </button></a></div></div><div class="right-image"></div></div><style> 
+.canary-block {
+    display: flex;
+    column-gap: 3rem;
+    align-items: center;
+
+
+    background: #F6F6FA;
+    border-radius: 16px;
+    margin: 88px auto;
+
+    padding-left: 40px;
+}
+
+.canary-block h3 {
+    font-size: 32px;
+}
+
+
+.canary-block p{
+     font-size: 16px;
+    line-height: 1.5;
+}
+
+.canary-block .right-image  {
+   border-radius: 16px;
+   background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/Spain_Canary_Islands_Teide_view_Travellers_Hiking_-_Supplier_2020_SM.jpg);
+
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.canary-block .left-content, .canary-block .right-image {
+   flex-basis:50%;     
+   padding: 16px 0;
+}
+
+
+@media (max-width:1199px) {
+
+.canary-block .left-content {
+   flex-basis:80%;
+}
+
+
+@media (max-width:979px) {
+
+.canary-block {
+    column-gap: 1rem;
+    padding-left: 24px;
+}
+
+
+
+.canary-block h3 { padding:0;}
+
+}
+
+@media (max-width:768px) {
+
+.canary-block {
+    margin: 88px 24px;
+}
+}
+
+
+@media (max-width:640px) {
+  .canary-block {
+     flex-direction: column;
+     padding-left: 0;
+}
+
+.canary-block .right-image {
+    width: 100%;
+}
+
+.canary-block .left-content {
+   padding:24px 24px 48px 24px;
+}
+
+}
+
+
+
+</style></div></div>
+
+
+  <div class='leadercontent container clearfix' id='leadercontent-15297'><div class='text'><!-- below. added this to june sale --><style>
+.ukeu {
+    display:none;
+}
+
+.localization-united-kingdom .ukeu,
+.localization-australia .ukeu,
+.localization-russia .ukeu,
+.localization-germany .ukeu,
+.localization-france .ukeu,
+.localization-italy .ukeu,
+.localization-spain .ukeu,
+.localization-ukraine .ukeu,
+.localization-poland .ukeu,
+.localization-romania .ukeu,
+.localization-netherlands .ukeu,
+.localization-belgium .ukeu,
+.localization-czech-republic .ukeu,
+.localization-greece .ukeu,
+.localization-portugal .ukeu,
+.localization-sweden .ukeu,
+.localization-hungary .ukeu,
+.localization-belarus .ukeu,
+.localization-austria .ukeu,
+.localization-serbia .ukeu,
+.localization-switzerland .ukeu,
+.localization-bulgaria .ukeu,
+.localization-denmark .ukeu,
+.localization-finland .ukeu,
+.localization-slovakia .ukeu,
+.localization-norway .ukeu,
+.localization-ireland .ukeu,
+.localization-croatia .ukeu,
+.localization-moldova .ukeu,
+.localization-bosnia-and-herzegovina .ukeu,
+.localization-lithuania .ukeu,
+.localization-slovenia .ukeu,
+.localization-latvia .ukeu,
+.localization-estonia .ukeu,
+.localization-montenegro .ukeu,
+.localization-luxembourg .ukeu,
+.localization-malta .ukeu,
+.localization-iceland .ukeu,
+.localization-andorra .ukeu,
+.localization-monaco .ukeu,
+.localization-liechtenstein .ukeu,
+.localization-san-marino .ukeu {
+   display:inline;
+}
+
+.localization-united-kingdom .rotw,
+.localization-australia .rotw,
+.localization-russia .rotw,
+.localization-germany .rotw,
+.localization-france .rotw,
+.localization-italy .rotw,
+.localization-spain .rotw,
+.localization-ukraine .rotw,
+.localization-poland .rotw,
+.localization-romania .rotw,
+.localization-netherlands .rotw,
+.localization-belgium .rotw,
+.localization-czech-republic .rotw,
+.localization-greece .rotw,
+.localization-portugal .rotw,
+.localization-sweden .rotw,
+.localization-hungary .rotw,
+.localization-belarus .rotw,
+.localization-austria .rotw,
+.localization-serbia .rotw,
+.localization-switzerland .rotw,
+.localization-bulgaria .rotw,
+.localization-denmark .rotw,
+.localization-finland .rotw,
+.localization-slovakia .rotw,
+.localization-norway .rotw,
+.localization-ireland .rotw,
+.localization-croatia .rotw,
+.localization-moldova .rotw,
+.localization-bosnia-and-herzegovina .rotw,
+.localization-lithuania .rotw,
+.localization-slovenia .rotw,
+.localization-latvia .rotw,
+.localization-estonia .rotw,
+.localization-montenegro .rotw,
+.localization-luxembourg .rotw,
+.localization-malta .rotw,
+.localization-iceland .rotw,
+.localization-andorra .rotw,
+.localization-monaco .rotw,
+.localization-liechtenstein .rotw,
+.localization-san-marino .rotw {
+   display:none;
+}
+
+</style><!-- above. added this to june sale --><div class="ukeu" style="    margin: 60px 0 -60px 0;"><section class="tour-sale"><div class="content-container container"><div class="promo-intro"><h3>Save BIG on tours departing within 60 days!  </h3><p>Got the urge to get away within the next couple of months? With our Last Minute Travel Deals, you can save on a selection of tours that are departing within 60 days, and that only have a few open spots left. Check ‘em out below, then get booking before they fill up! </p></div><ul class="tabs"><li class="tab-link current" data-tab="tab-1"><div class="tabicon tabeuropeicon"></div>Europe</li><li class="tab-link" data-tab="tab-2"><div class="tabicon tabasiaicon"></div>Asia</li><li class="tab-link" data-tab="tab-3"><div class="tabicon tabcaicon"></div>Central &amp; Caribbean</li><li class="tab-link" data-tab="tab-4"><div class="tabicon tabmeicon"></div>Middle East &amp; North Africa</li><li class="tab-link" data-tab="tab-5"><div class="tabicon tabsaicon"></div>South America</li><li class="tab-link" data-tab="tab-6"><div class="tabicon tabafricaicon"></div>Africa</li><li class="tab-link" data-tab="tab-7"><div class="tabicon tabnaicon"></div>North America</li><!--li class="tab-link" data-tab="tab-9"><div class="tabicon tabantaicon"></div>Antarctica</li--><!--li class="tab-link" data-tab="tab-8"><div class="tabicon tabaticon"></div>Oceania </li--></ul><div class="tab-section  tour-recos"><div id="tab-1" class="tab-content current"><div id="dy_Last_minute_-_Europe"></div></div><div id="tab-2" class="tab-content"><div id="dy_Last_minute_-_Asia"></div></div><div id="tab-3" class="tab-content"><div id="dy_Last_minute_-_Central&Caribbean"></div></div><div id="tab-4" class="tab-content"><div id="dy_Last_minute_-_Middle_East"></div></div><div id="tab-5" class="tab-content"><div id="dy_Last_minute_-_South_America"></div></div><div id="tab-6" class="tab-content"><div id="dy_Last_minute_-_Africa"></div></div><div id="tab-7" class="tab-content"><div id="dy_Last_minute_-_North_America"></div></div><!--div id="tab-9" class="tab-content"><div id="dy_Last_minute_-_Antarctica"></div></div--><!--div id="tab-8" class="tab-content"><div id="dy_Last_minute_-_AUS/NZ"></div></div--><div class="button-group"><a href="/search/?refinementList%5Bpromotions%5D%5B0%5D=Last%20Minute%20Specials"><button class="main button">  View all Last Minute travel deals </button></a></div></div></div></section></div><!-- up. added this to june sale --><!-- below. added this to june sale --><div class="rotw"><!-- up. added this to june sale --><section class="tour-sale"><div class="content-container container"><div class="promo-intro dy_copy"><h3> Save on our most popular tours</h3><p>Got the urge to get away? We’ve got you covered. Check out the tours below, then get booking today!</p></div><ul class="tabs"><li class="tab-link current" data-tab="tab-1"><div class="tabicon tabeuropeicon"></div>Europe</li><li class="tab-link" data-tab="tab-2"><div class="tabicon tabasiaicon"></div>Asia</li><li class="tab-link" data-tab="tab-3"><div class="tabicon tabcaicon"></div>Central &amp; Caribbean</li><li class="tab-link" data-tab="tab-4"><div class="tabicon tabmeicon"></div>Middle East &amp; North Africa</li><li class="tab-link" data-tab="tab-5"><div class="tabicon tabsaicon"></div>South America</li><li class="tab-link" data-tab="tab-6"><div class="tabicon tabafricaicon"></div>Africa</li><li class="tab-link" data-tab="tab-7"><div class="tabicon tabnaicon"></div>North America</li><li class="tab-link" data-tab="tab-9"><div class="tabicon tabantaicon"></div>Antarctica</li><li class="tab-link" data-tab="tab-8"><div class="tabicon taboceaniaicon"></div>Oceania</li></ul><div class="tab-section  tour-recos"><div id="tab-1" class="tab-content current"><div id="dy_Homepage_Europe_tours"></div></div><div id="tab-2" class="tab-content"><div id="dy_Hompage_Asia_tours"></div></div><div id="tab-3" class="tab-content"><div id="dy_Homepage_Central_America_&_The_Caribbean"></div></div><div id="tab-4" class="tab-content"><div id="dy_Homepage_Middle_East_tours"></div></div><div id="tab-5" class="tab-content"><div id="dy_Homepage_South_America_tours"></div></div><div id="tab-6" class="tab-content"><div id="dy_Homepage_Africa_tours"></div></div><div id="tab-7" class="tab-content"><div id="dy_Homepage_north_america_tours"></div></div><div id="tab-9" class="tab-content"><div id="dy_Homepage_Antarctica_tours"></div></div><div id="tab-8" class="tab-content"><div id="dy_Homepage_Aus/NZ_tours"></div></div><div class="button-group"><a href="/search/?refinementList%5Bpromotions%5D%5B0%5D=On%20Sale"><button class="main button">View all tours on sale</button></a></div></div></div></section><!-- below. added this to june sale --></div><!-- up. added this to june sale --><style>
+
+section.america-tour-sale {
+   margin-bottom:0;
+}
+
+section.tour-sale {
+   margin-bottom:5em;
+}
+
+/*-------reco trip tabs-----*/
+
+.promo-intro h3 {
+    font-size:32px;
+}
+
+
+
+
+.content-container p.eye-icon {
+padding-top: 0;
+}
+
+
+
+.promo-intro p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 48px;
+    padding-top: 24px
+}
+
+
+
+ul.tabs, .tab-section .tab-content {
+    width: auto;
+    margin: 0 auto;
+}
+
+
+
+.tab-section .tab-content {
+    display: none;
+    z-index: 10;
+}
+
+.tab-content.current {
+    display: block;
+    position: relative;
+    overflow: visible;
+}
+
+
+.tabicon {    
+    height: 24px;
+    width: 24px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 8px;
+
+    transition-duration: 0.15s !important;
+    transition-property: marginRight, maxWidth, opacity, -ms-transform, -webkit-transform, transform !important;
+    transition-timing-function: linear, linear, linear, cubic-bezier(0, 0, 0.1, 1) !important;
+    margin-right: 0px !important;
+    max-width: 0px !important;
+    opacity: 0 !important;
+    transform: translateX(0px) scale(0) !important;
+}
+
+
+
+
+
+.current .tabicon {
+    margin-right: 8px !important;
+    max-width: 25px !important;
+    opacity: 1 !important;
+    transform: translateX(0px) scale(1) !important;
+    transition-duration: 0.15s !important;
+    transition-property: marginRight, maxWidth, opacity, -ms-transform, -webkit-transform, transform !important;
+    transition-timing-function: linear, linear, linear, cubic-bezier(0, 0, 0.1, 1) !important;
+}
+
+
+
+
+
+.tabasiaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabasiaicon.png);}
+.tabcaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabcaicon.png);}
+.tabeuropeicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabeuropeicon.png);}
+.tabmeicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabmeicon.png);}
+.taboceaniaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/taboceaniaicon.png);}
+.tabsaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabsaicon.png);}
+.tabafricaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabafricaicon.png);}
+.tabnaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabnaicon.png);}
+.tabantaicon {background-image:url(https://media.gadventures.com/media-server/dynamic/admin/content_pages/tabantaicon.png);}
+
+
+
+ul.tabs {
+    list-style: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: overlay;
+    overflow-x: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    justify-content: flex-start;
+    padding: 10px 0 24px 0;
+    margin-left: -8px;
+}
+
+ul.tabs::-webkit-scrollbar {
+  display: none;
+}
+
+ul.tabs li {
+    background: #ffffff;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+   
+  /*-----  font-family: "DM Sans",sans-serif;-----*/
+    text-align: left;
+    color: #504E61;
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 16px;
+
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.2;
+   
+    width: fit-content;
+    float: left;
+    padding: 16px 8px;
+    white-space: nowrap;
+
+    position: relative;
+    box-sizing: border-box;
+   /*----- -webkit-font-smoothing: antialiased; -----*/
+}
+
+ul.tabs li.current{
+    color:#242239;
+    -webkit-font-smoothing: auto;
+}
+
+
+ul.tabs li:hover {
+     background: #F6F6FA;
+     border-radius: 8px;
+}
+
+
+
+ul.tabs li.current::after {
+    content: "";
+    position: absolute;
+    bottom: -0.1em;
+    left: 8px;
+    right: 0px;
+    height: 4px;
+
+    background: #513394;
+    border-radius: 10px;
+    height: 4px;
+    width: calc( 100% - 16px );
+}
+
+.main {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 12px 24px;
+    border-radius: 1rem;
+    color: #fff;
+    background-color: #513394;
+    position: relative;
+}
+
+.main:hover {
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+    box-shadow: rgb(36 34 57 / 22%) 0px 0.125rem 1.5rem;
+}
+
+.button {
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.button.main a {
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+</style><!-- below all. added this to june sale --><style>
+
+#dy-widget-grid-16523363 { display:none;}
+
+
+
+
+/*-------reco trip tabs-----*/
+
+.last-minute-tour-sale {
+  padding:80px 0 40px;
+}
+
+
+.last-minute-tour-sale h1 {
+    text-transform: none;
+    font-size: 64px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+.main {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 12px 24px;
+    border-radius: 1rem;
+    color: #fff;
+    background-color: #513394;
+    position: relative;
+}
+
+.main:hover {
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+    box-shadow: rgb(36 34 57 / 22%) 0px 0.125rem 1.5rem;
+}
+
+.button {
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.button.main a {
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+@media (max-width:821px) {
+
+
+
+.promo-intro h3 {
+     padding:0;
+}
+
+
+.last-minute-tour-sale h1 {
+    text-transform: none;
+    font-size: 48px;
+    text-align: left;
+    line-height: 1;
+    margin-bottom: 40px;
+}
+
+.content-container .promo-intro {
+    width: 100%;
+}
+
+.tab-section.tour-recos, .recos-container.slider {
+     margin-right: -24px;
+    padding-right: 24px;
+}
+
+.last-minute-tour-sale {
+    padding: 40px 0;
+}
+
+
+}
+
+
+
+
+@media (max-width:768px) {
+
+
+.last-minute-tour-sale .container{
+    margin: 24px;
+}
+.dy-widget-tile-item-16522948 {max-width:300px}
+
+
+}
+
+</style><script type="text/javascript">
+    
+
+$(document).ready(function(){  
+
+	$('ul.tabs li').click(function(){
+
+		var tab_id = $(this).attr('data-tab');
+
+		$(this).siblings('ul.tabs li').removeClass('current');
+		$(this).parents().siblings(".tab-section").children('.tab-content').removeClass('current');
+
+		$(this).addClass('current');
+		$(this).parents().siblings(".tab-section").children("#"+tab_id).addClass('current');
+	});
+
+});
+
+
+
+  DYO.smartObject("Last minute - Europe", {target: "dy_Last_minute_-_Europe", inline: true});
+
+  DYO.smartObject("Last minute - Asia", {target: "dy_Last_minute_-_Asia", inline: true});
+
+  DYO.smartObject("Last minute - Central&Caribbean", { target: "dy_Last_minute_-_Central&Caribbean", inline: true});
+
+  DYO.smartObject("Last minute - Middle East", {target: "dy_Last_minute_-_Middle_East", inline: true});
+
+  DYO.smartObject("Last minute - South America", {target: "dy_Last_minute_-_South_America", inline: true});
+
+  DYO.smartObject("Last minute - Africa", {target: "dy_Last_minute_-_Africa", inline: true});
+
+  DYO.smartObject("Last minute - North America", {target: "dy_Last_minute_-_North_America", inline: true});
+
+  DYO.smartObject("Last minute - Antarctica", {target: "dy_Last_minute_-_Antarctica", inline: true});
+
+  DYO.smartObject("Last minute - AUS/NZ", {target: "dy_Last_minute_-_AUS/NZ", inline: true});
+    
+    
+DYO.smartObject("Homepage Europe tours", {target: "dy_Homepage_Europe_tours", inline: true});
+
+DYO.smartObject("Hompage Asia tours", {target: "dy_Hompage_Asia_tours", inline: true});
+
+DYO.smartObject("Homepage Africa tours", {target: "dy_Homepage_Africa_tours", inline: true});
+
+DYO.smartObject("Homepage Middle East tours", {target: "dy_Homepage_Middle_East_tours", inline: true});
+
+DYO.smartObject("Homepage Central America & The Caribbean", {target: "dy_Homepage_Central_America_&_The_Caribbean", inline: true});
+
+DYO.smartObject("Homepage South America tours", {target: "dy_Homepage_South_America_tours", inline: true});
+
+DYO.smartObject("Homepage north america tours", {target: "dy_Homepage_north_america_tours", inline: true});
+
+DYO.smartObject("Homepage Antarctica tours", {target: "dy_Homepage_Antarctica_tours", inline: true});
+
+DYO.smartObject("Homepage Aus/NZ tours", {target: "dy_Homepage_Aus/NZ_tours", inline: true});  
+
+</script></div></div>
+
+
+  <div class='leadercontent None clearfix' id='leadercontent-15104'><div class='text'><style>
+/*-------days for differnt locations-----*/
+
+.CEU {
+    display:none;
+}
+
+.localization-austria .CEU, 
+.localization-germany .CEU, 
+.localization-switzerland .CEU {
+   display:inline-block;
+}
+
+.localization-austria .OUTSIDE, 
+.localization-germany .OUTSIDE, 
+.localization-switzerland .OUTSIDE {
+   display:none;
+}
+</style><div class="content-container container"><div class="pomtgrid"><!-- <div class="pomtcontainer wtg"><div class="promcontent"><h3>You’re ready. Where can you go?</h3><p>Before you book and pack those bags, check our easy-to-use travel restriction finder for your destination’s COVID-19 regulations and safety requirements.</p><div  class="button ghost"><a href="/where-to-travel-during-covid/">Try it now</a></div></div><div class="pomttopicon"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/wtghomepageicon.png" img alt="" ></div></div> --><div class="pomtcontainer bwc"><div class="promcontent"><h3>Book with Confidence</h3><p>Our policy lets you cancel and rebook your tour up to <span class="CEU"> 30  </span><span class="OUTSIDE"> 45  </span> days before your departure. Effective July 1st, 2022 until December 31, 2023, on travel departing before December 31, 2023.</p><div  class="button ghost"><a href="/book-with-confidence/">Learn more</a></div></div><div class="pomttopicon"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/bwchomepageicon_no_text.png" img alt="" ></div></div><div class="pomtcontainer twc"><div class="promcontent"><h3>Travel with Confidence</h3><p>Our new policy that outlines how we will continue to keep you safe and healthy on our tours and make you feel even better about choosing to travel.</p><div  class="button ghost"><a href="/travel-with-confidence/" >Learn more</a></div></div><div class="pomttopicon"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/twchomepageicon.png" img alt=""></div></div></div></div></div></div>
+
+
+  <div class='leadercontent None clearfix' id='leadercontent-15106'><div class='text'><section class="why-g-block"><div class="content-container container"><div class="why-g-intro"><h3>Why travel with G&nbsp;Adventures?</h3><p>We’re the leader in small group adventure travel for more than 30 years. How’d we get here? By redefining the way travellers see the world. Check out how we’re creating the future of travel.</p><div class="button ghost"><a href="/about-us/why-travel-with-gadventures/" class="">Learn more</a></div></div><div class="reasons-items-block"><div class="reason-item"><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock1.png" alt="Small groups"><h6>Small groups</h6></div><p>Join a small group of like-minded travellers that, like you, are eager to safely and confidently experience all the things that make our world worth exploring. </p></div><div class="reason-item"><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock2.png" alt="Book &amp; Travel with Confidence"><h6>Book &amp; Travel with Confidence</h6></div><p>With 100% guaranteed departures, our flexible rebooking policy, and heightened health and safety measures, we’ve got you covered every step of your trip.</p></div><div class="reason-item"><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock3.png" alt="Locally based guides"><h6>Locally based guides</h6></div><p>At G Adventures, we don’t have tour guides — we have Chief Experience Officers. And they are all locally based, meaning they know the area you’re exploring like the back of their well-travelled hand. </p></div><div class="reason-item"><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock4.png" alt="Built to support local communities"><h6>Built to support local communities</h6></div><p>We have always created our tours by building meaningful relationships with local communities, directly benefiting the people and places we visit.</p></div><div class="reason-item"><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock5.png" alt="Flexibility, freedom, fun"><h6>Flexibility, freedom, fun</h6></div><p>No matter the Travel Style, our tours balance well-planned itineraries with the flexibility to do your own thing and make the experience your own. </p></div><div class="reason-item "><div class="card-header"><img src="https://media.gadventures.com/media-server/dynamic/admin/content_pages/whygblock6.png" alt="G for Good"><h6>G for Good</h6></div><p>When you travel with us, you experience first-hand our commitment to making travel a force for good is in everything we do. </p></div></div></div></section></div></div>
+
+        
+</div>
+
+        
+        
+    
+
+    
+        
+<div class='page-position content-bottom clearfix' data-position="content-bottom">
+        
+</div>
+
+    
+</div>
+
+
+    </div>
+
+    <footer id="footer" class="clearfix">
+    
+      
+
+
+
+<div class="footer-main"><div class='container'><div class="row-fluid"><div class='span6'><div class='footer-logo'><a href='/'>G Adventures</a></div></div><div class='span6 follow'><h3>G Nation:</h3><div class='rgt'><a href="http://www.facebook.com/gadventures" target="_blank" title="facebook" class="facebook"></a><a href="http://www.twitter.com/gadventures" target="_blank" title="twitter" class="twitter"></a><a href="http://instagram.com/gadventures" target="_blank" title="instagram" class="instagram"></a><a href="https://www.youtube.com/user/gadventures" target="_blank" title="youtube" class="youtube"></a><a href="http://www.linkedin.com/company/g-adventures" target="_blank" title="linkedin" class="linkedin"></a><a href="http://www.pinterest.com/gadventures" target="_blank" title="pinterest" class="pinterest"></a></div></div></div><div class="row-fluid"><hr/><div class="span3"><h3 class="btn-navbar" data-toggle="collapse" data-target="#footer-home">General</h3><div class="nav-collapse collapse" id="footer-home"><ul class=" clearfix" role="menu"><li><a href="/">Home</a></li><li><a href="/brochure/?ref=footer">Request a Brochure</a></li><li><a href="/subscriptions/newsletters/?ref=footer">Email Sign Up</a></li><li><a href="/media-centre/">Media Centre</a></li><li><a href="/affiliate-program/">Affiliate Program</a></li><li><a href="/contact-us/?ref=footer">Contact Us</a></li></ul></div></div><div class="span3"><h3 class="btn-navbar" data-toggle="collapse" data-target="#footer-about">About Us</h3><div class="nav-collapse collapse" id="footer-about"><ul class=" clearfix" role="menu"><li><a href="/about-us/">Our History</a></li><li><a href="/about-us/core-values/">Our Core Values</a></li><li><a href="/careers/?l=fnav">Careers with G</a></li><li><a href="/about-us/awards/">Awards</a></li><li><a href="http://www.looptail.com/" target="_blank">Looptail</a></li><li><a href="http://www.planeterra.org/" target="_blank">Planeterra</a></li></ul></div></div><div class="span3"><h3 class="btn-navbar" data-toggle="collapse" data-target="#footer-resources">Resources</h3><div class="nav-collapse collapse" id="footer-resources"><ul class=" clearfix" role="menu"><li><a href="/faqs/">FAQ</a></li><li><a href="/travel-resources/prepare-for-your-tour/">Important Pre-Departure Information</a></li><li><a href="/travel-resources/">Go Adventures Travel Resources</a></li><li><a href="/safety-updates/">Travel Alerts</a></li><li><a href="/agents/search/">Find an Agent</a></li></ul></div></div><div class="span3"><h3 class="btn-navbar" data-toggle="collapse" data-target="#footer-community">Community</h3><div class="nav-collapse collapse" id="footer-community"><ul class=" clearfix" role="menu"><li><a href='/blog/' target='_blank'>G Adventures Blog</a></li></ul></div></div><div class="span3 dif"><h3 class="btn-navbar" data-toggle="collapse" data-target="#footer-dif">Travel Agents</h3><div class="nav-collapse collapse" id="footer-dif"><div class="agent-block"><p>As an agent of change, you have the power to change the world.</p><a href="https://sherpa.gadventures.com/?ref=www-footer" class="btn">Agent Login</a></div><a href='/agents/?ref=footer'>New Agency? Register here.</a></div></div></div><!-- #footer-menus.row-fluid --><div class='row-fluid extraMarginBottom'><div class='span12'><div class='footer-contact'><p>Call us, we're at your service</p><!-- Changing the link class for custom trips intends to suppress the PPC-based phone number update --><a class='telephone' href='tel:+49 211 96294006'>
+                          +49 211 96294006
+                        </a></div></div></div></div></div><div class='sub-footer'><div class='container'><div class='row-fluid'><div class='span6'><div class="footer-legal"><a href='/terms-conditions/privacy/'>Privacy Policy</a><a href='https://developers.gadventures.com/'>Developers API</a><a href='/terms-conditions/cookie-policy/'>Cookie Policy</a><a href='/terms-conditions/'>Terms &amp; Conditions</a><a href='#'>Copyright 2023</a></div></div><div class='span6'><div class='footer-localization'><form  action="/localization/set_country_of_residence" id="country_localization_form" method="post" ><input type="hidden" name="csrfmiddlewaretoken" value="AHN0Ea08RmO9KPfeSeUp5p5pX3hXz5toLQG2NUrv9wEjtoSnK93uM1zx8J5Luvmp"><div id="div_id_localization_country" class="control-group"><label for="id_localization_country" class="control-label requiredField">
+                Country<span class="asteriskField">*</span></label><div class="controls"><select name="localization_country" class="test select" onchange="this.form.submit()" required id="id_localization_country"><option value="">Select Country</option><option value="4">Afghanistan</option><option value="12">Algeria</option><option value="20">Andorra</option><option value="24">Angola</option><option value="660">Anguilla</option><option value="28">Antigua and Barbuda</option><option value="32">Argentina</option><option value="51">Armenia</option><option value="533">Aruba</option><option value="36">Australia</option><option value="40">Austria</option><option value="44">Bahamas</option><option value="48">Bahrain</option><option value="52">Barbados</option><option value="56">Belgium</option><option value="84">Belize</option><option value="60">Bermuda</option><option value="64">Bhutan</option><option value="68">Bolivia</option><option value="72">Botswana</option><option value="76">Brazil</option><option value="92">British Virgin Islands</option><option value="100">Bulgaria</option><option value="854">Burkina Faso</option><option value="108">Burundi</option><option value="116">Cambodia</option><option value="120">Cameroon</option><option value="124">Canada</option><option value="136">Cayman Islands</option><option value="148">Chad</option><option value="152">Chile</option><option value="156">China</option><option value="170">Colombia</option><option value="184">Cook Islands</option><option value="188">Costa Rica</option><option value="191">Croatia</option><option value="192">Cuba</option><option value="196">Cyprus</option><option value="203">Czech Republic</option><option value="208">Denmark</option><option value="212">Dominica</option><option value="214">Dominican Republic</option><option value="626">East Timor</option><option value="218">Ecuador</option><option value="818">Egypt</option><option value="222">El Salvador</option><option value="232">Eritrea</option><option value="233">Estonia</option><option value="238">Falkland Islands</option><option value="234">Faroe Islands</option><option value="242">Fiji</option><option value="246">Finland</option><option value="250">France</option><option value="254">French Guiana</option><option value="258">French Polynesia</option><option value="266">Gabon</option><option value="268">Georgia</option><option value="276">Germany</option><option value="288">Ghana</option><option value="292">Gibraltar</option><option value="300">Greece</option><option value="308">Grenada</option><option value="312">Guadeloupe</option><option value="320">Guatemala</option><option value="831">Guernsey</option><option value="324">Guinea</option><option value="624">Guinea-Bissau</option><option value="328">Guyana</option><option value="332">Haiti</option><option value="340">Honduras</option><option value="344">Hong Kong</option><option value="348">Hungary</option><option value="352">Iceland</option><option value="356">India</option><option value="360">Indonesia</option><option value="372">Ireland</option><option value="833">Isle of Man</option><option value="376">Israel</option><option value="380">Italy</option><option value="384">Ivory Coast</option><option value="388">Jamaica</option><option value="392">Japan</option><option value="832">Jersey</option><option value="400">Jordan</option><option value="404">Kenya</option><option value="414">Kuwait</option><option value="418">Laos</option><option value="428">Latvia</option><option value="422">Lebanon</option><option value="426">Lesotho</option><option value="430">Liberia</option><option value="434">Libya</option><option value="438">Liechtenstein</option><option value="440">Lithuania</option><option value="442">Luxembourg</option><option value="450">Madagascar</option><option value="454">Malawi</option><option value="458">Malaysia</option><option value="466">Mali</option><option value="470">Malta</option><option value="474">Martinique</option><option value="484">Mexico</option><option value="492">Monaco</option><option value="504">Morocco</option><option value="508">Mozambique</option><option value="516">Namibia</option><option value="524">Nepal</option><option value="528">Netherlands</option><option value="530">Netherlands Antilles</option><option value="554">New Zealand</option><option value="558">Nicaragua</option><option value="562">Niger</option><option value="566">Nigeria</option><option value="574">Norfolk Island</option><option value="578">Norway</option><option value="512">Oman</option><option value="586">Pakistan</option><option value="591">Panama</option><option value="598">Papua New Guinea</option><option value="600">Paraguay</option><option value="604">Peru</option><option value="608">Philippines</option><option value="616">Poland</option><option value="620">Portugal</option><option value="630">Puerto Rico</option><option value="634">Qatar</option><option value="178">Republic of the Congo</option><option value="642">Romania</option><option value="643" selected>Russia</option><option value="646">Rwanda</option><option value="659">Saint Kitts and Nevis</option><option value="662">Saint Lucia</option><option value="663">Saint Martin</option><option value="666">Saint Pierre and Miquelon</option><option value="674">San Marino</option><option value="682">Saudi Arabia</option><option value="686">Senegal</option><option value="690">Seychelles</option><option value="702">Singapore</option><option value="703">Slovakia</option><option value="705">Slovenia</option><option value="706">Somalia</option><option value="710">South Africa</option><option value="410">South Korea</option><option value="724">Spain</option><option value="144">Sri Lanka</option><option value="736">Sudan</option><option value="748">Swaziland</option><option value="752">Sweden</option><option value="756">Switzerland</option><option value="760">Syria</option><option value="158">Taiwan</option><option value="834">Tanzania</option><option value="764">Thailand</option><option value="270">The Gambia</option><option value="768">Togo</option><option value="788">Tunisia</option><option value="792">Turkey</option><option value="796">Turks and Caicos Islands</option><option value="800">Uganda</option><option value="804">Ukraine</option><option value="784">United Arab Emirates</option><option value="826">United Kingdom</option><option value="840">United States</option><option value="858">Uruguay</option><option value="850">U.S. Virgin Islands</option><option value="860">Uzbekistan</option><option value="862">Venezuela</option><option value="704">Vietnam</option><option value="887">Yemen</option><option value="894">Zambia</option><option value="716">Zimbabwe</option></select></div></div></form><form action="/i18n/setlang/" method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="AHN0Ea08RmO9KPfeSeUp5p5pX3hXz5toLQG2NUrv9wEjtoSnK93uM1zx8J5Luvmp"><select name="language" onChange="this.form.submit()" id="id_language"><option value="en" selected>English</option><option value="de">Deutsch</option></select><input type="hidden" name="aff" value="999" id="id_aff"></form></div></div></div></div></div>
+
+    
+    </footer>
+
+    
+</div>
+
+<div style='height:0;'></div><!--[if lt IE 9]><script src="https://media.gadventures.com/media-server/static/vendor/utils/html5shim-3.7.0.min.js"></script><![endif]--><script src="https://media.gadventures.com/media-server/static/_CACHE/js/output.26af013ea962.js" defer></script><script defer src="https://media.gadventures.com/ghql/1.0.0/ghql.min.js"></script><script type="text/javascript" src="https://media.gadventures.com/media-server/static/js_apps/main/main-75f45b9e429d02f0e9c5.js" defer=""></script><script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script><script type='text/javascript'>
+    var initSalesforceChatWidget = function (gslbBaseURL) {
+        embedded_svc.settings.displayHelpButton = true; //Or false
+        embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
+        embedded_svc.settings.defaultMinimizedText = 'Chat with us'; //(Defaults to Chat with an Expert)
+        embedded_svc.settings.disabledMinimizedText = 'Chat offline'; //(Defaults to Agent Offline)
+        embedded_svc.settings.widgetWidth = '400px';
+        embedded_svc.settings.extraPrechatFormDetails = [
+            {
+                "label": "Booking Company Name",
+                "value": "G Adventures",
+                "transcriptFields": ["Booking_Company_Name__c"],
+                "displayToAgent": false
+            },
+            {
+                "label": "Booking Company",
+                "value": "a9j1O000000kCIbQAM",
+                "transcriptFields": ["Booking_Company__c"],
+                "displayToAgent": false
+            },
+            {
+                "label": "Originating Source",
+                "value": "00130000011zc6yAAA",
+                "transcriptFields": ["Originating_Source__c"],
+                "displayToAgent": false
+            },
+            {
+                "label": "Last Name",
+                "transcriptFields": ["Last_Name__c"]
+            },
+            {
+                "label": "First Name",
+                "transcriptFields": ["First_Name__c"]
+            },
+            {
+                "label": "Email",
+                "transcriptFields": ["Email__c"]
+            },
+            {
+                "label": "Subject",
+                "transcriptFields": ["Subject__c"]
+            }
+        ];
+        embedded_svc.settings.extraPrechatInfo =
+            [
+                {
+                    "entityFieldMaps":
+                        [
+                            {
+                                "doCreate": false,
+                                "doFind": false,
+                                "fieldName": "LastName",
+                                "isExactMatch": true,
+                                "label": "Last Name"
+                            },
+                            {
+                                "doCreate": false,
+                                "doFind": false,
+                                "fieldName": "FirstName",
+                                "isExactMatch": true,
+                                "label": "First Name"
+                            },
+                            {
+                                "doCreate": false,
+                                "doFind": true,
+                                "fieldName": "Email",
+                                "isExactMatch": true,
+                                "label": "Email"
+                            }
+                        ],
+                    "entityName": "Contact"
+                },
+                {
+                    "entityFieldMaps":
+                        [
+                            {
+                                "doCreate": false,
+                                "doFind": true,
+                                "fieldName": "Name",
+                                "isExactMatch": true,
+                                "label": "Booking Number (Optional)"
+                            },
+                        ],
+                    "entityName": "Booking__c",
+                    "saveToTranscript": "Booking__c"
+                },
+                {
+                    "entityFieldMaps": [
+                        {
+                            "doCreate": false,
+                            "doFind": true,
+                            "fieldName": "Name",
+                            "isExactMatch": true,
+                            "label": "Booking Number"
+                        }
+                    ],
+                    "entityName": "Booking__c",
+                    "saveToTranscript": "Booking__c"
+                },
+                {
+                    "entityFieldMaps":
+                        [
+                            {
+                                "doCreate": false,
+                                "doFind": true,
+                                "fieldName": "Transactional_Email_Address__c",
+                                "isExactMatch": true,
+                                "label": "Email"
+                            }
+                        ],
+                    "entityName": "Account",
+                    "saveToTranscript": "AccountId"
+                }
+            ];
+        embedded_svc.settings.enabledFeatures = ['LiveAgent'];
+        embedded_svc.settings.entryFeature = 'LiveAgent';
+        embedded_svc.init(
+            'https://gadventures.my.salesforce.com/',
+            'https://gadventures.secure.force.com/GAWebsiteChatWithBookingPage',
+            gslbBaseURL,
+            '00D30000001Gea4',
+            'GAWebsiteWithBooking',
+            {
+                baseLiveAgentContentURL: 'https://c.la3-c1cs-ph2.salesforceliveagent.com/content',
+                deploymentId: '5721O000000TPYX',
+                buttonId: '5731O000000TPdn',
+                baseLiveAgentURL: 'https://d.la3-c1cs-ph2.salesforceliveagent.com/chat',
+                eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I1O000000blJsUAI_16d3b8b6937',
+                isOfflineSupportEnabled: false
+            }
+        );
+    };
+    if (!window.embedded_svc) {
+        let salesForceChatWidgetScriptTag = document.createElement('script');
+        salesForceChatWidgetScriptTag.setAttribute('src', 'https://gadventures.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+        salesForceChatWidgetScriptTag.onload = function () {
+            initSalesforceChatWidget(null);
+        };
+        document.body.appendChild(salesForceChatWidgetScriptTag);
+    } else {
+        initSalesforceChatWidget('https://service.force.com');
+    }
+</script><link href="https://media.gadventures.com/media-server/static/gadventures/css/live-chat.css" rel="stylesheet" type="text/css" /><script src="https://media.gadventures.com/media-server/static/_CACHE/js/output.200e3076cbce.js" defer></script><script>
+    $(function() {
+        $('.videogallery').each(function(){
+            new VideoGalleryView({id: $(this).attr('id')});
+        });
+    });
+    </script></body></html>
